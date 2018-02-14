@@ -1,4 +1,4 @@
-# BiticoinCrack.js
+# BitcoinCrack.js
 Javascript BitCoin Single Thread Iterating Wallet Generator Hacking Tool
 
 "If you know what I mean:"
